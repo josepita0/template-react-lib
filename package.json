@@ -1,14 +1,14 @@
 {
-  "name": "form-builder-react-shadcn",
+  "name": "template-react-lib",
   "private": false,
-  "version": "0.0.6",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "directory": "https://github.com/josepita0/shadcn-form-builder"
+    "directory": "https://github.com/josepita0/template-react-lib"
   },
   "exports": {
     ".": {

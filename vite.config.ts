@@ -8,7 +8,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: path.resolve(__dirname, "index.ts"),
-      name: "vite-react-ts-button",
+      name: "template-react-lib",
       fileName: (format) => `index.${format}.js`,
     },
     rollupOptions: {
